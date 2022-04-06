@@ -1,1 +1,1 @@
-print([1,2,3,4,5]+[])
+print([i for i in range(10) if i != 3 and i!=8])
